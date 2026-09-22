@@ -43,13 +43,11 @@ The available statuses are:
 
 ## API Endpoints
 
-| Method | Endpoint | Description |
-|---|---|---|
-| GET | `/api/Task` | Get all tasks |
-| GET | `/api/Task/{id}` | Get a task by ID |
-| POST | `/api/Task` | Create a new task |
-| PUT | `/api/Task/{id}` | Update a task |
-| DELETE | `/api/Task/{id}` | Delete a task |
+ GET  `/api/Task` - Get all tasks 
+ GET  `/api/Task/{id}` - Get a task by ID 
+ POST  `/api/Task` - Create a new task |
+ PUT  `/api/Task/{id}` - Update a task 
+ DELETE  `/api/Task/{id}` - Delete a task 
 
 ## Requirements
 
